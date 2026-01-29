@@ -21,7 +21,7 @@ const Home = () => {
     const [features, setFeatures] = useState([]);
 
     // API URL - Use localhost for development
-    const API_URL = 'http://localhost:5000';
+    const API_URL = 'https://ml-model-9a83.onrender.com';
 
     // Check API status on component mount
     useEffect(() => {
