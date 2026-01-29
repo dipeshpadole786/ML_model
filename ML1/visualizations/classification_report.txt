@@ -1,0 +1,15 @@
+Model: Random Forest
+Date: 2026-01-29 18:00:01
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    No Churn       0.78      0.88      0.82        75
+       Churn       0.40      0.24      0.30        25
+
+    accuracy                           0.72       100
+   macro avg       0.59      0.56      0.56       100
+weighted avg       0.68      0.72      0.69       100
+
+ROC-AUC Score: 0.6176
+Accuracy: 0.7200

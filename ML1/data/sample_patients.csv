@@ -1,0 +1,4 @@
+Patient_ID,Age,Gender,Tenure_Months,Visits_Last_Year,Chronic_Disease,Insurance_Type,Satisfaction_Score,Total_Bill_Amount,Missed_Appointments
+1001,45,Female,24,8,No,Private,4.2,18500,2
+1002,68,Male,6,3,Yes,Government,2.1,32500,7
+1003,32,Female,36,12,No,None,3.8,12500,1

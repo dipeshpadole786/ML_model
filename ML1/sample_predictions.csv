@@ -1,0 +1,4 @@
+Patient_ID,Age,Gender,Tenure_Months,Visits_Last_Year,Chronic_Disease,Insurance_Type,Satisfaction_Score,Total_Bill_Amount,Missed_Appointments,Churn_Prediction,Churn_Probability,Risk_Level,Recommendation
+1001,45,Female,24,8,No,Private,4.2,18500,2,0,0.31,Low,Continue current care plan
+1002,68,Male,6,3,Yes,Government,2.1,32500,7,0,0.45,Medium,Continue current care plan
+1003,32,Female,36,12,No,,3.8,12500,1,0,0.39,Low,Continue current care plan
