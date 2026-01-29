@@ -171,6 +171,8 @@ def prepare_features_for_prediction(input_data):
     
     return df_encoded
 
+load_model_components()
+
 @app.route('/')
 def home():
     return jsonify({
